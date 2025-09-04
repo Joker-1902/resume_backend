@@ -1,0 +1,9 @@
+alembic
+fastapi
+passlib
+psycopg-binary
+python-dotenv
+python-jose
+SQLAlchemy
+uvicorn[standard]
+PyJWT
